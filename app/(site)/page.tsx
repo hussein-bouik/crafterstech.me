@@ -14,8 +14,8 @@ import Blog from "@/components/Blog";
 import Testimonial from "@/components/Testimonial";
 
 export const metadata: Metadata = {
-  title: "Next.js Starter Template for SaaS Startups - Solid SaaS Boilerplate",
-  description: "This is Home for Solid Pro",
+  title: "The craftersTech : A digital solution agency for your business ",
+  description: " This is a digital solution agency for your business. It is designed to solve your business problems and help you develop your business",
   // other metadata
 };
 
